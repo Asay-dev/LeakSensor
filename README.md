@@ -15,7 +15,7 @@ LeakSensor.eprj 是嘉立创EDA工程文件,里面做了器件标准化, 直接�
 
 # 连接pixhawk
 将leak sensor的信号口(signal 3 )插到pixhawk的AUX OUT6
-
+![alt text](image-3.png)
 ![alt text](image-1.png)
 
 进入QGC设置界面
